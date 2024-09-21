@@ -17,4 +17,5 @@
 =)) tiền nhìu thì san sẻ nhìu<br>
 ;> chưa quen lâu mà đề cập tiền bạc nhìu nghe nặng nề lắm e<br>
 ;> suy thoái thì a cũng bị ảnh hưởng khá nhìu<br>
-;> dưới a hàng quán ế ẩm ê hề
+;> dưới a hàng quán ế ẩm ê hề<br>
+;> a định ôn đinh xíu ròi gặp e gần cận tết

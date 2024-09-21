@@ -12,4 +12,9 @@
 ;> chứ nhắn trong sáng quài e chê a nhạt nhẽo, phải răm rục 1 tý cơ<br>
 ;> nào gặp e chứ để lâu quá, dú chưa kịp bóp đã xệ<br>
 ;> e gặp a là e thích ngay lần đầu lun chứ từ từ thích qq<br>
-;> e thích a ròi đeo theo a coi phải gu e hem =))
+;> e thích a ròi đeo theo a coi phải gu e hem =))<br>
+;> iu nhau lâu thì a sẽ san sẻ tài chính vs e<br>
+=)) tiền nhìu thì san sẻ nhìu<br>
+;> chưa quen lâu mà đề cập tiền bạc nhìu nghe nặng nề lắm e<br>
+;> suy thoái thì a cũng bị ảnh hưởng khá nhìu<br>
+;> dưới a hàng quán ế ẩm ê hề

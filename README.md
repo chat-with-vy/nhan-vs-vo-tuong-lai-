@@ -19,4 +19,5 @@
 ;> suy thoái thì a cũng bị ảnh hưởng khá nhìu<br>
 ;> dưới a hàng quán ế ẩm ê hề<br>
 ;> a định ôn đinh xíu ròi gặp e gần cận tết<br>
-;> cty e sắp banh ròi chứ gì, cắt giảm nhân sự liền e
+;> cty e sắp banh ròi chứ gì, cắt giảm nhân sự liền e<br>
+;> ngắt nhéo lương liền

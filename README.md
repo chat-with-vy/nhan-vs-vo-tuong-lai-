@@ -7,4 +7,5 @@
 ;> chứ tiếp xúc bth hong biết<br>
 ;> dù là e nungf lắm ròi nhưng mà phải về chung 1 nhà vs ăn nằm phải hem<br>
 =)) e ko biết đâu là thóc đâu là gà<br>
-;> trời se se lạnh lạnh mà ôm nhau thích e nhỉ
+;> trời se se lạnh lạnh mà ôm nhau thích e nhỉ<br>
+;> ai mà yếu, nhu cầu thấp là quen e hỏng nổi đâu

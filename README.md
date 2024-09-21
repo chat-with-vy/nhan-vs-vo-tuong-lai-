@@ -11,3 +11,4 @@
 ;> ai mà yếu, nhu cầu thấp là quen e hỏng nổi đâu<br>
 ;> chứ nhắn trong sáng quài e chê a nhạt nhẽo, phải răm rục 1 tý cơ<br>
 ;> nào gặp e chứ để lâu quá, dú chưa kịp bóp đã xệ
+;> e gặp a là e thích ngay lần đầu lun chứ từ từ thích qq

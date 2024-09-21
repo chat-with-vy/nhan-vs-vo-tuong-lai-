@@ -21,4 +21,6 @@
 ;> a định ôn đinh xíu ròi gặp e gần cận tết<br>
 ;> cty e sắp banh ròi chứ gì, cắt giảm nhân sự liền e<br>
 ;> ngắt nhéo lương liền<br>
-;> quen lâu đi ròi có  tiền đi tua du lịch sẵn làm tình lun e
+;> quen lâu đi ròi có  tiền đi tua du lịch sẵn làm tình lun e<br>
+;> tua chừng 2-3 ngày là đc còn tốt hơn thì 4-5 ngày<br>
+=)) để quen lâu e nungdf trong quần tối ngày cũng mệt e

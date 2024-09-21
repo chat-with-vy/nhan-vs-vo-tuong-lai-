@@ -6,4 +6,5 @@
 ;> ai bồ e mới biết e răm thôi<br>
 ;> chứ tiếp xúc bth hong biết<br>
 ;> dù là e nungf lắm ròi nhưng mà phải về chung 1 nhà vs ăn nằm phải hem<br>
-=)) e ko biết đâu là thóc đâu là gà
+=)) e ko biết đâu là thóc đâu là gà<br>
+;> trời se se lạnh lạnh mà ôm nhau thích e nhỉ

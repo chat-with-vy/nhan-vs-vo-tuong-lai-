@@ -14,4 +14,6 @@
 ;> vợ a giỏi + khôn mà<br>
 ;> quen lâu dài thì ở chung lun e<br>
 ;> nếu e làm bạn đời của a thì e là ưu tiên số 1, nhìu khi hơn cha mẹ a lun<br>
-;> cha me a nhìu khi cũng ko hợp tính, ko làm a vui còn e thì ăn điềm phần đó dĩ nhiên e phải hơn ròi
+;> cha me a nhìu khi cũng ko hợp tính, ko làm a vui còn e thì ăn điềm phần đó dĩ nhiên e phải hơn ròi<br>
+=)) khác cái e ko có công nuôi dưỡng a, hay tạo ra a thôi<br>
+;> a vẫn ưu tiên cuộc sống cá nhân, bản thân nào vui thì a chọn thôi

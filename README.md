@@ -7,5 +7,6 @@
 ;> lột đồ ra nó mới dễ nungf =))<br>
 ;> nào gặp nhau e<br>
 ;> ủa e làm gì dợ<br>
-;> đi hẹn họ thì chắc là a tiệm ròi e<br>
-;> a chắc cũng tập gym cho body ngon ngon xíu
+;> đi hẹn họ thì chắc là ăn tiệm ròi e<br>
+;> a chắc cũng tập gym cho body ngon ngon xíu<br>
+;> cũng phia ròi off nhe e, gút nine e, mai nhắn tiếp

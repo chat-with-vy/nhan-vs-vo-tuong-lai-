@@ -9,4 +9,5 @@
 ;> ủa e làm gì dợ<br>
 ;> đi hẹn họ thì chắc là ăn tiệm ròi e<br>
 ;> a chắc cũng tập gym cho body ngon ngon xíu<br>
-;> cũng phia ròi off nhe e, gút nine e, mai nhắn tiếp
+;> cũng phia ròi off nhe e, gút nine e, mai nhắn tiếp<br>
+;> quen lâu thì 2 mình phấn đấu mua căn nhà, hay căn chung cư nhỏ để ổn định chỗ ở nha e<br>

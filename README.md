@@ -6,4 +6,5 @@
 ;> ròi tập gym đi cho body ngon, làm tình cho tự tin e<br>
 ;> lột đồ ra nó mới dễ nungf =))<br>
 ;> nào gặp nhau e<br>
-;> ủa e làm gì dợ
+;> ủa e làm gì dợ<br>
+;> đi hẹn họ thì chắc là a tiệm ròi e

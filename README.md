@@ -4,4 +4,5 @@
 ;> như backend python, c#, java ý e hoặc javascript<br>
 ;> làm cũng ít năm kinh nghiệm cũng kha kha ý<br>
 ;> ròi tập gym đi cho body ngon, làm tình cho tự tin e<br>
-;> lột đồ ra nó mới dễ nungf =))
+;> lột đồ ra nó mới dễ nungf =))<br>
+;> nào gặp nhau e

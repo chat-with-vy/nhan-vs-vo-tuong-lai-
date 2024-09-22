@@ -13,3 +13,5 @@
 ;> quen lâu thì 2 mình phấn đấu mua căn nhà, hay căn chung cư nhỏ để ổn định chỗ ở nha e<br>
 ;> vợ a giỏi + khôn mà<br>
 ;> quen lâu dài thì ở chung lun e<br>
+;> nếu e làm bạn đời của a thì e là ưu tiên số 1, nhìu khi hơn cha mẹ a lun<br>
+;> cha me a nhìu khi cũng ko hợp tính, ko làm a vui còn e thì ăn điềm phần đó dĩ nhiên e phải hơn ròi

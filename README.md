@@ -9,4 +9,6 @@
 ;> a slim, vừa người<br>
 ;> e hong iu đc a thì e ế tới già lun à<br>
 ;> nào gặp nhắn qua mail trên CV của a<br>
-;> nhắn trên đt nhìu khi a ko để ý tin nhắn đâu
+;> nhắn trên đt nhìu khi a ko để ý tin nhắn đâu<br>
+;> làm lồn gì chặn a trên mọi mặt trận z<br>
+;> ròi quan dữ chưa

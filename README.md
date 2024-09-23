@@ -11,4 +11,5 @@
 ;> nào gặp nhắn qua mail trên CV của a<br>
 ;> nhắn trên đt nhìu khi a ko để ý tin nhắn đâu<br>
 ;> làm lồn gì chặn a trên mọi mặt trận z<br>
-;> ròi quan dữ chưa
+;> ròi quan dữ chưa<br>
+;> hong quen nói a quen con khác chứ làm kiểu gì khó coi z

@@ -6,4 +6,5 @@
 =)) e chứ tổ sư nhắn nhầm thành a<br>
 ;> e chubby đó<br>
 ;> hong biết lột đồ ra có ngon hong<br>
-;> a slim, vừa người
+;> a slim, vừa người<br>
+;> e hong iu đc a thì e ế tới già lun à

@@ -8,4 +8,5 @@
 ;> hong biết lột đồ ra có ngon hong<br>
 ;> a slim, vừa người<br>
 ;> e hong iu đc a thì e ế tới già lun à<br>
-;> nào gặp nhắn qua mail trên CV của a
+;> nào gặp nhắn qua mail trên CV của a<br>
+;> nhắn trên đt nhìu khi a ko để ý tin nhắn đâu

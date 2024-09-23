@@ -7,4 +7,5 @@
 ;> e chubby đó<br>
 ;> hong biết lột đồ ra có ngon hong<br>
 ;> a slim, vừa người<br>
-;> e hong iu đc a thì e ế tới già lun à
+;> e hong iu đc a thì e ế tới già lun à<br>
+;> nào gặp nhắn qua mail trên CV của a

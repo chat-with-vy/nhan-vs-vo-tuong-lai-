@@ -5,4 +5,5 @@
 ;> e dạng như hơi chubby chứ hong vừa người đâu<br>
 =)) e chứ tổ sư nhắn nhầm thành a<br>
 ;> e chubby đó<br>
-;> hong biết lột đồ ra có ngon hong
+;> hong biết lột đồ ra có ngon hong<br>
+;> a slim, vừa người

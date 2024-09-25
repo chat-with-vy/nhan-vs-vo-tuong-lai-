@@ -13,4 +13,7 @@
 ;> rác ko đó<br>
 ;> nó vẻ chuyện, bịa chuyện đầy<br>
 ;> nyc thì a ko quen lại ròi, e yên tâm<br>
-
+;> có mấy đứa tiêu cực ăn ở ko ròi dùng tool spam buff tương tác<br>
+;> ròi spam bài rác bịa<br>
+;> tốt nhất là ít lướt mạng e nhó<br>
+;> đừng để chuyện ko đâu mà rước vào người, coi tiêu cực thêm

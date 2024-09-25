@@ -4,4 +4,5 @@
 ;> mấy nay a cũng cày phim pachinko 2 coi khá hay<br>
 ;> chắc cỡ ít tuần nữa mới push code c# e nhó<br>
 ![image](https://github.com/user-attachments/assets/e8bfc0ca-0054-4c86-9dc0-4f647afcf403)<br>
-;> rảnh dở ra viết miếng
+;> rảnh dở ra viết miếng<br>
+;> dự án AI của e mà để dân chuyên công nghệ biết viết bằng PHP ngta cười chết

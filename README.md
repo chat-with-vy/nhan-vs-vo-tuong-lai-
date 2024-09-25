@@ -16,4 +16,7 @@
 ;> có mấy đứa tiêu cực ăn ở ko ròi dùng tool spam buff tương tác<br>
 ;> ròi spam bài rác bịa<br>
 ;> tốt nhất là ít lướt mạng e nhó<br>
-;> đừng để chuyện ko đâu mà rước vào người, coi tiêu cực thêm
+;> đừng để chuyện ko đâu mà rước vào người, coi tiêu cực thêm<br>
+![image](https://github.com/user-attachments/assets/652c3fda-2d5d-42f1-8eaa-fda97354e89b)<br>
+;> nãy giờ viết cũng kha khá thấy hem e
+

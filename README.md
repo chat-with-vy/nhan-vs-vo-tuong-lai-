@@ -11,4 +11,6 @@
 ;> dự án của e chắc làm bằng backend python là sẽ perfect hơn<br>
 ;> bớt lướt mạng coi xàm xàm đi e nhó<br>
 ;> rác ko đó<br>
-;> nó vẻ chuyện, bịa chuyện đầy
+;> nó vẻ chuyện, bịa chuyện đầy<br>
+;> nyc thì a ko quen lại ròi, e yên tâm<br>
+

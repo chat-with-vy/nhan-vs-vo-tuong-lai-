@@ -10,4 +10,5 @@
 ;> e đi sau nên học hỏi các cty liên quan đến mảng, đi trước e nhó<br>
 ;> dự án của e chắc làm bằng backend python là sẽ perfect hơn<br>
 ;> bớt lướt mạng coi xàm xàm đi e nhó<br>
-;> rác ko đó
+;> rác ko đó<br>
+;> nó vẻ chuyện, bịa chuyện đầy

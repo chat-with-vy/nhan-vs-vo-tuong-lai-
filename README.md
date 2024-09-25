@@ -8,4 +8,6 @@
 ;> dự án AI của e mà để dân chuyên công nghệ biết viết bằng PHP ngta cười chết<br>
 ;> mốt làm dự án rút kinh nghiệm tìm hiểu các công ty đi trước e nhó, làm ko khéo là banh<br>
 ;> e đi sau nên học hỏi các cty liên quan đến mảng, đi trước e nhó<br>
-;> dự án của e chắc làm bằng backend python là sẽ perfect hơn
+;> dự án của e chắc làm bằng backend python là sẽ perfect hơn<br>
+;> bớt lướt mạng coi xàm xàm đi e nhó<br>
+;> rác ko đó

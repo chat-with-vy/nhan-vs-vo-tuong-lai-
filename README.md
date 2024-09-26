@@ -360,7 +360,7 @@ private static void RemoveSubject(List<Subject> subjects,List<Register>registers
     }
 }
 ```
-;> các list đã đk của sv phải đc thêm vô, để tăng cho đến khi bé hơn 8 môn học
+;> các list đã đk của sv phải đc thêm vô, để tăng cho đến khi bé hơn hoặc bằng 8 môn học
 ```
 if (student.Registrations.Count >= 8)
     {

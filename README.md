@@ -339,7 +339,6 @@ if (registered)
 }
 ```
 =)) quên return
-```
 ;> fix lại hàm này nữa, xóa môn học thì phải xóa ở bảng sv đã đk môn học đó lun<br>
 ```
 private static void RemoveSubject(List<Subject> subjects,List<Register>registers)
@@ -369,6 +368,7 @@ if (student.Registrations.Count >= 8)
         return;
     }
 ```
+
 ```
 private static void AddRegister(List<Register> registers, List<Student> students, List<Subject> subjects)
 {
@@ -417,4 +417,4 @@ private static void AddRegister(List<Register> registers, List<Student> students
 
 }
 ```
-=)) viết bt chơi chơi mà bug nhìu
+=)) viết bt chơi chơi mà bug nhìu e

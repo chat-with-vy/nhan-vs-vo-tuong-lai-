@@ -437,3 +437,4 @@ private static void RemoveStudent(List<Student> students,List<Register>registers
     }
 }
 ```
+;> thôi a bận xíu lát nhắn

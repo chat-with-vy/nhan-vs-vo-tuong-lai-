@@ -320,3 +320,12 @@ private static void AddRegister(List<Register> registers, List<Student> students
 
 }
 ```
+;> à fix lại xíu e
+```
+var registered = registers.Exists(s => s.Student == student && s.Subject == subjects[subjectIndex]);
+if (registered)
+{
+    Console.WriteLine("SV đã đăng kí môn này rồi");
+}
+```
+;> chắc vầy oki rồi

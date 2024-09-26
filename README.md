@@ -3,6 +3,7 @@
 ;> lên mạng copy past mấy cái tên môn học rồi copy tên sinh viên lun e đỡ bịa<br>
 ;> bài này a viết gọn lắm cỡ 500 dòng á<br>
 ;> này phần xử lý logic, ó ngắn gọn dễ hỉu lun e
+```
 private static void CreateFakeRegisters(List<Register> registers, List<Student> students, List<Subject> subjects)
 {
     DateTime currentTime = DateTime.Now;
@@ -270,4 +271,4 @@ private static void RemoveRegister(List<Register> registers)
         Console.WriteLine("Hủy xóa");
     }
 }
-
+```

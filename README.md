@@ -272,3 +272,51 @@ private static void RemoveRegister(List<Register> registers)
     }
 }
 ```
+;> a mới fix lại hàm này tý cho hợp lý nà<br>
+```
+private static void AddRegister(List<Register> registers, List<Student> students, List<Subject> subjects)
+{
+    if (students.Count == 0 || subjects.Count == 0)
+    {
+        Console.WriteLine("Sinh viên hoặc môn học chưa được thêm");
+        return;
+    }
+
+    Console.WriteLine("Mã SV: ");
+    string studentId = Console.ReadLine();
+    var student = students.FirstOrDefault(s => s.StudentId == studentId);
+    if (student == null)
+    {
+        Console.WriteLine("SV ko tồn tại");
+        return;
+    }
+
+
+    Console.WriteLine("Danh sách môn học: ");
+    for (int i = 0; i < subjects.Count; i++)
+    {
+        Console.WriteLine($"{i + 1}. {subjects[i].SubjectName}");
+    }
+    int subjectIndex = int.Parse(Console.ReadLine()) - 1;
+
+
+    if (student.Registrations.Count >= 8)
+    {
+        Console.WriteLine("Sv này đã đk đủ 8 môn học");
+        return;
+    }
+
+
+    var registered = registers.Exists(r => r.Student == student);
+    if (registered)
+    {
+        Console.WriteLine($"SV đã đk môn học '{subjects[subjectIndex].SubjectName}' này rồi");
+        return;
+    }
+
+    Register register = new Register(student, subjects[subjectIndex]);
+    registers.Add(register);
+    Console.WriteLine("====> Tạo thành công");
+
+}
+```

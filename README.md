@@ -339,3 +339,82 @@ if (registered)
 }
 ```
 =)) quên return
+```
+;> fix lại hàm này nữa, xóa môn học thì phải xóa ở bảng sv đã đk môn học đó lun<br>
+```
+private static void RemoveSubject(List<Subject> subjects,List<Register>registers)
+{
+    Console.WriteLine("Mã môn: ");
+    int subjectId = int.Parse(Console.ReadLine());
+    Console.WriteLine("Bạn có chắc muốn xóa (Y/N)?");
+    if (Console.ReadLine().Trim().ToLower() == "y")
+    {
+        // Xóa tất cả bản đăng ký của môn học
+        registers.RemoveAll(r => r.Subject.SubjectId == subjectId);
+
+        int removed = subjects.RemoveAll(s => s.SubjectId == subjectId);
+        Console.WriteLine(removed > 0 ? "Xóa thành công" : "Xóa thất bại");
+    }
+    else
+    {
+        Console.WriteLine("Hủy xóa");
+    }
+}
+```
+;> các list đã đk của sv phải đc thêm vô, để tăng cho đến khi bé hơn 8 môn học
+```
+if (student.Registrations.Count >= 8)
+    {
+        Console.WriteLine("SV đã đk đủ 8 môn học");
+        return;
+    }
+```
+```
+private static void AddRegister(List<Register> registers, List<Student> students, List<Subject> subjects)
+{
+    if (students.Count == 0 || subjects.Count == 0)
+    {
+        Console.WriteLine("Sinh viên hoặc môn học phải được tạo trước");
+        return;
+    }
+
+    Console.WriteLine("Mã SV: ");
+    string studentId = Console.ReadLine();
+    var student = students.FirstOrDefault(s => s.StudentId == studentId);
+    if (student == null)
+    {
+        Console.WriteLine("SV ko tồn tại");
+        return;
+    }
+
+    if (student.Registrations.Count >= 8)
+    {
+        Console.WriteLine("SV đã đk đủ 8 môn học");
+        return;
+    }
+
+
+    Console.WriteLine("Danh sách các môn học:");
+    for (int i = 0; i < subjects.Count; i++)
+    {
+        Console.WriteLine($"{i + 1}. {subjects[i].SubjectName}");
+    }
+    int subjectIndex = int.Parse(Console.ReadLine()) - 1;
+
+    var registered = registers.Exists(s => s.Student == student && s.Subject == subjects[subjectIndex]);
+    if (registered)
+    {
+        Console.WriteLine($"SV đã đăng kí môn '{subjects[subjectIndex].SubjectName}' này rồi");
+        return;
+    }
+
+    Register register = new Register(student, subjects[subjectIndex]);
+    registers.Add(register);
+    student.Registrations.Add(register);
+
+
+    Console.WriteLine("====> Tạo thành công");
+
+}
+```
+=)) viết bt chơi chơi mà bug nhìu

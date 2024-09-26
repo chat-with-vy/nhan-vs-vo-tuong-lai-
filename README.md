@@ -328,4 +328,14 @@ if (registered)
     Console.WriteLine("SV đã đăng kí môn này rồi");
 }
 ```
-;> chắc vầy oki rồi
+;> chắc vầy oki rồi<br>
+;> à chưa oki e<br>
+```
+var registered = registers.Exists(s => s.Student == student && s.Subject == subjects[subjectIndex]);
+if (registered)
+{
+    Console.WriteLine($"SV đã đăng kí môn '{subjects[subjectIndex].SubjectName}' này rồi");
+    return;
+}
+```
+=)) quên return

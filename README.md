@@ -417,4 +417,23 @@ private static void AddRegister(List<Register> registers, List<Student> students
 
 }
 ```
-=)) viết bt chơi chơi mà bug nhìu e
+=)) viết bt chơi chơi mà bug nhìu e<br>
+;> tương tự hàm này nữa
+```
+private static void RemoveStudent(List<Student> students,List<Register>registers)
+{
+    Console.WriteLine("Mã SV: ");
+    string studentId = Console.ReadLine();
+    Console.WriteLine("Bạn có chắc muốn xóa (Y/N)?");
+    if (Console.ReadLine().Trim().ToLower() == "y")
+    {
+        registers.RemoveAll(r=>r.Student.StudentId == studentId);//mới thêm vô
+        int removed = students.RemoveAll(s => s.StudentId == studentId);
+        Console.WriteLine(removed > 0 ? "Xóa thành công" : "Xóa thất bại");
+    }
+    else
+    {
+        Console.WriteLine("Hủy xóa");
+    }
+}
+```

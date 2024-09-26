@@ -794,4 +794,5 @@ class Register
 ```
 ;> từ class như z nên mới suy ra viết logic như thế e nhó<br>
 ;> thấy e có vẻ quan tâm mấy này nên share cho e coi chứ gì đâu<br>
-;> viết cho e coi nổ con mắt lun
+;> viết cho e coi nổ con mắt lun<br>
+;> e ăn đc tré hem

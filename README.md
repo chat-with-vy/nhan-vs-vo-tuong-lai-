@@ -6,4 +6,5 @@
 ;> nửa a học nấu ăn, để a ăn =))<br>
 ;> ăn thích ăn ngon mà lười ra ngoài nên nấu ăn cho tiện ý mà<br>
 ;> nấu cho e ăn cũng oke nà<br>
-;> a nay vừa người chứ hem mập đâu e
+;> a nay vừa người chứ hem mập đâu e<br>
+;> gầy hoặc vừ người thôi e

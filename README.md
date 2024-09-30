@@ -7,4 +7,5 @@
 ;> tính z nghèo chết<br>
 ;> mà thôi nồi nào vung nấy mà e<br>
 ;> nếu mà mình gặp nhau thì tần suất tuần nhiu lần e<br>
-;> a đầu óc tỉnh táo, chứ ko phải nungfd tối ngày như e nghĩ đâu
+;> a đầu óc tỉnh táo, chứ ko phải nungfd tối ngày như e nghĩ đâu<br>
+;> có e mới nungfd tối ngày á

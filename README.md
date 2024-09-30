@@ -13,4 +13,5 @@
 ;> như nào là mẹ chồng cho dất nhưng ko cho bán, ròi chồng bài bạc ăn chơi bán nhà nhìu lần khuyên can nhưng ko thành<br>
 ;> ròi nào vợ đẻ chồng ghen tuông chém vợ, lương tôi gấp 10 lần chồng nhưng phải làm việc nhà như con ôsin<br>
 ;> chồng siêng ăn biếng làm, suốt ngày chơi game<br>
-;> e đọc riết e bị nó thao túng tâm lý, 2 đứa mình múa lân múa lửa ráng chịu
+;> e đọc riết e bị nó thao túng tâm lý, 2 đứa mình múa lân múa lửa ráng chịu<br>
+;> chỗ này là a thấy e đéo đc thông minh cho lắm<br>

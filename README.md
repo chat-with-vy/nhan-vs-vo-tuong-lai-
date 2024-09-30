@@ -6,4 +6,5 @@
 ;> a thấy có mấy người học đh xong đu học lên Ths để đi làm nhà nước cho ổn định rồi đụ đẻ<br>
 ;> tính z nghèo chết<br>
 ;> mà thôi nồi nào vung nấy mà e<br>
-;> nếu mà mình gặp nhau thì tần suất tuần nhiu lần e
+;> nếu mà mình gặp nhau thì tần suất tuần nhiu lần e<br>
+;> a đầu óc tỉnh táo, chứ ko phải nungfd tối ngày như e nghĩ đâu

@@ -15,3 +15,6 @@
 ;> chồng siêng ăn biếng làm, suốt ngày chơi game<br>
 ;> e đọc riết e bị nó thao túng tâm lý, 2 đứa mình múa lân múa lửa ráng chịu<br>
 ;> chỗ này là a thấy e đéo đc thông minh cho lắm<br>
+;> đéo ai mà ghen tuông chém e đâu<br>
+;> cũng đéo có cha mẹ chồng nào bắt e lãnh nợ, phục vụ như ôsin<br>
+;> làm như e đọc mấy bài đó riết ròi e khùng khùng, e bị thao túng tâm lý kiểu đéo nào á

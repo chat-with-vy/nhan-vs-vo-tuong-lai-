@@ -17,4 +17,5 @@
 ;> chỗ này là a thấy e đéo đc thông minh cho lắm<br>
 ;> đéo ai mà ghen tuông chém e đâu<br>
 ;> cũng đéo có cha mẹ chồng nào bắt e lãnh nợ, phục vụ như ôsin<br>
-;> làm như e đọc mấy bài đó riết ròi e khùng khùng, e bị thao túng tâm lý kiểu đéo nào á
+;> làm như e đọc mấy bài đó riết ròi e khùng khùng, e bị thao túng tâm lý kiểu đéo nào á<br>
+;> a đéo thấy e não to cho lắm hơi teo

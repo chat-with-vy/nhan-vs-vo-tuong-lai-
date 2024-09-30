@@ -19,4 +19,5 @@
 ;> cũng đéo có cha mẹ chồng nào bắt e lãnh nợ, phục vụ như ôsin<br>
 ;> làm như e đọc mấy bài đó riết ròi e khùng khùng, e bị thao túng tâm lý kiểu đéo nào á<br>
 ;> a đéo thấy e não to cho lắm hơi teo<br>
-;> gặp đứa khác là a hô nó bị ngu lâu ròi
+;> gặp đứa khác là a hô nó bị ngu lâu ròi<br>
+;> phia gòi ngủ đi e, a off, nn nhe e

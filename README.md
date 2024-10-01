@@ -19,4 +19,5 @@
 ;> mặc dù là a đéo có con như e nghĩ, a cũng đéo chấp nhận chuyện bạn đời mình từng ăn nằm có con riêng<br>
 ;> hay có 1 đời chồng, a đéo chấp nhận đc<br>
 =)) mà e tự vẽ ra ròi chấp nhận đc cũng hay<br>
-;> phụ nữ mà có con ròi, hay 1 đời chồng là a đéo bh quen đâu
+;> phụ nữ mà có con ròi, hay 1 đời chồng là a đéo bh quen đâu<br>
+;> a đồ mới mà nhỏ lớn ăn học ko, đã lập gia đình, hay có con bh

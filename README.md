@@ -9,4 +9,5 @@
 ;> sự nghiệp bị delay<br>
 ;> do suy thoái nên a mới apply vô cty e á<br>
 ;> chứ a ko có apply vị trí đó đâu<br>
-=)) suy diễn cho nhìu vô
+=)) suy diễn cho nhìu vô<br>
+;> nửa có nhu cầu có con mà e cho học trường a học đh là a ko có nuôi đâu 

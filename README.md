@@ -24,3 +24,4 @@
 ;> cho nên là a phải quen đồ mới, lớn tuổi hơn chút cũng đc =))<br>
 ;> e mà ăn đời ở kiếp vs a chắc e hạnh phúc lắm =))<br>
 ;> coi như công đi chùa, từ thiên,... đc đền đáp =))<br>
+;> e nhìn a cái e thấy "OMG ngon ngon yummy yummy"

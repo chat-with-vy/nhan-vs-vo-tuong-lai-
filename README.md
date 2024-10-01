@@ -15,4 +15,7 @@
 ;> chiếm số ít cực ít thôi, còn nhiu chìm hết<br>
 ;> tụi cực ít đó là ra ngoài xh lăn lộn tự nó cứu nó thôi<br>
 ;> thử e mướn đứa học đh khtn như a đi nó có giỏi đc như a ko biết liền<br>
-;> mốt e có nhu cầu tuyển nv ý, tuyển thử vài đứa đi biết liền =))
+;> mốt e có nhu cầu tuyển nv ý, tuyển thử vài đứa đi biết liền =))<br>
+;> mặc dù là a đéo có con như e nghĩ, a cũng đéo chấp nhận chuyện bạn đời mình từng ăn nằm có con riêng<br>
+;> hay có 1 đời chồng, a đéo chấp nhận đc<br>
+=)) mà e tự vẽ ra ròi chấp nhận đc cũng hay

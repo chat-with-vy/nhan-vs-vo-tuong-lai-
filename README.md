@@ -12,4 +12,6 @@
 =)) suy diễn cho nhìu vô<br>
 ;> nửa có nhu cầu có con mà e cho học trường a học đh là a ko có nuôi đâu<br>
 ;> vô đó ròi ngta nổ dụ học này học kia tương lai rộng mỡ<br>
-;> chiếm số ít cực ít thôi, còn nhiu chìm hết
+;> chiếm số ít cực ít thôi, còn nhiu chìm hết<br>
+;> tụi cực ít đó là ra ngoài xh lăn lộn tự nó cứu nó thôi<br>
+;> thử e mướn đứa học đh khtn như a đi nó có giỏi đc như a ko biết liền

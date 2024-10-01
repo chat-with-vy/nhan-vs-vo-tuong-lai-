@@ -8,4 +8,5 @@
 =)) ra trường gặp suy thoái mắc chết này<br>
 ;> sự nghiệp bị delay<br>
 ;> do suy thoái nên a mới apply vô cty e á<br>
-;> chứ a ko có apply vị trí đó đâu
+;> chứ a ko có apply vị trí đó đâu<br>
+=)) suy diễn cho nhìu vô

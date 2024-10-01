@@ -14,4 +14,5 @@
 ;> vô đó ròi ngta nổ dụ học này học kia tương lai rộng mỡ<br>
 ;> chiếm số ít cực ít thôi, còn nhiu chìm hết<br>
 ;> tụi cực ít đó là ra ngoài xh lăn lộn tự nó cứu nó thôi<br>
-;> thử e mướn đứa học đh khtn như a đi nó có giỏi đc như a ko biết liền
+;> thử e mướn đứa học đh khtn như a đi nó có giỏi đc như a ko biết liền<br>
+;> mốt e có nhu cầu tuyển nv ý, tuyển thử vài đứa đi biết liền =))

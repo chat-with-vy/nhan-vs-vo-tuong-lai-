@@ -1,3 +1,4 @@
 ;> qua nay e bớt khùng chưa<br>
 ;> điển hình là a thấy e khùng nhất ở chỗ nghĩ a có con ròi =))<br>
-;> ủa a đụ vs ai mà có con hồi nào
+;> ủa a đụ vs ai mà có con hồi nào<br>
+=)) a thấy e khùng khùng sao á

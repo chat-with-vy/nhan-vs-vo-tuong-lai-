@@ -21,4 +21,6 @@
 =)) mà e tự vẽ ra ròi chấp nhận đc cũng hay<br>
 ;> phụ nữ mà có con ròi, hay 1 đời chồng là a đéo bh quen đâu<br>
 ;> a đồ mới mà nhỏ lớn ăn học ko, đã lập gia đình, hay có con bh<br>
-;> cho nên là a phải quen đồ mới, lớn tuổi hơn chút cũng đc =))
+;> cho nên là a phải quen đồ mới, lớn tuổi hơn chút cũng đc =))<br>
+;> e mà ăn đời ở kiếp vs a chắc e hạnh phúc lắm =))<br>
+;> coi như công đi chùa, từ thiên,... đc đền đáp =))<br>

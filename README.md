@@ -14,3 +14,4 @@
 ;> cũng tùy chỗ bán nữa e<br>
 =)) a đứa mình nhâm nhi con gà là đủ gòi<br>
 ;> bth a cũng ăn ít lắm, tại có mấy món ăn đi ăn lại nên ngán ý<br>
+;> qua nay a tả a ngon đồ, đòi ăn nằm vs a hay gì

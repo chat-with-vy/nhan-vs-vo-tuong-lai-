@@ -11,3 +11,5 @@
 ;> gà ủ muối ăn cũng ngon<br>
 ;> ăn con gà nó thơm da gà dai giòn<br>
 ;> gà đó phải ăn hơi lạnh lạnh mới ngon<br>
+;> cũng tùy chỗ bán nữa e<br>
+=)) a đứa mình nhâm nhi con gà là đủ gòi

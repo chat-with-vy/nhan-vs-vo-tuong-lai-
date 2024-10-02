@@ -7,4 +7,7 @@
 ;> ròi nào gặp nhau e<br>
 ;> gặp nhau làm lon bia, con gà z thôi e<br>
 ;> lỡ uống nhìu quá sĩn ngủ quên khỏi tắm<br>
-;> mà a ko uống bia nhìu nên chắc ko sĩn ròi
+;> mà a ko uống bia nhìu nên chắc ko sĩn ròi<br>
+;> gà ủ muối ăn cũng ngon<br>
+;> ăn con gà nó thơm da gà dai giòn<br>
+;> gà đó phải ăn hơi lạnh lạnh mới ngon<br>

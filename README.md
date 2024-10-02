@@ -20,4 +20,7 @@
 ;> nhìn a, e nungf trong quần liền<br>
 ;> a tả a ngon lành làm e mắc nungf liền<br>
 =)) chứ bth e nghĩ a xấu nên e ít nungf chứ gì<br>
-;> thấy ngon lành nên mún chơi chứ hỏng đâu
+;> thấy ngon lành nên mún chơi chứ hỏng đâu<br>
+;> nãy giờ e mắc bận coi sẽ phải hem<br>
+;> tới lắm ròi chứ gì<br>
+;> thôi gút nine nhe e, a ngủ à

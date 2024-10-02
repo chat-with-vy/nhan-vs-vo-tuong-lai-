@@ -12,4 +12,5 @@
 ;> ăn con gà nó thơm da gà dai giòn<br>
 ;> gà đó phải ăn hơi lạnh lạnh mới ngon<br>
 ;> cũng tùy chỗ bán nữa e<br>
-=)) a đứa mình nhâm nhi con gà là đủ gòi
+=)) a đứa mình nhâm nhi con gà là đủ gòi<br>
+;> bth a cũng ăn ít lắm, tại có mấy món ăn đi ăn lại nên ngán ý<br>

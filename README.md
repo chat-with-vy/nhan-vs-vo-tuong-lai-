@@ -17,4 +17,4 @@
 ;> qua nay a tả a ngon đồ, đòi ăn nằm vs a hay gì<br>
 ;> ủa chứ e tưởng a sồ sề mập ú, đen đúa hay sao<br>
 ;> a e nhìn hong rụng trứng thì thôi lun<br>
-;> nhìn a, e nungf tron quần liền
+;> nhìn a, e nungf trong quần liền

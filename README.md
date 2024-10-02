@@ -19,4 +19,5 @@
 ;> a e nhìn hong rụng trứng thì thôi lun<br>
 ;> nhìn a, e nungf trong quần liền<br>
 ;> a tả a ngon lành làm e mắc nungf liền<br>
-=)) chứ bth e nghĩ a xấu nên e ít nungf chứ gì
+=)) chứ bth e nghĩ a xấu nên e ít nungf chứ gì<br>
+;> thấy ngon lành nên mún chơi chứ hỏng đâu

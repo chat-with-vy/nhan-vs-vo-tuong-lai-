@@ -3,4 +3,5 @@
 ;> ngoài e ra còn có đứa khác hay soi nữa<br>
 ;> đứa nào ngoài bồ a, hay bạn a mà ngu đọc ko hiểu thì kệ cmn =)), code chùa,free mà đòi hỏi lonque gì<br>
 ;> đó đéo phải trách nhiệm của a<br>
-;> cơm nước a nhắn sau cho nhen
+;> cơm nước a nhắn sau cho nhen<br>
+;> hi vọng mình có cơ hội gặp nhau trong thời gian gần cuối năm còn lại

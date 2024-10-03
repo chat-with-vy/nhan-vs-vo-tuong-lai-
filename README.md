@@ -5,4 +5,5 @@
 ;> đó đéo phải trách nhiệm của a<br>
 ;> cơm nước a nhắn sau cho nhen<br>
 ;> hi vọng mình có cơ hội gặp nhau trong thời gian gần cuối năm còn lại<br>
-;> mặc dù a là con 1 nhưng mà iu đương, hay là có về chung 1 nhà mình ở riêng e nhó
+;> mặc dù a là con 1 nhưng mà iu đương, hay là có về chung 1 nhà mình ở riêng e nhó<br>
+;> tự lập tự lo e nhó

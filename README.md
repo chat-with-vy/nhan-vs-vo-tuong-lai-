@@ -8,4 +8,5 @@
 ;> mặc dù a là con 1 nhưng mà iu đương, hay là có về chung 1 nhà mình ở riêng e nhó<br>
 ;> tự lập tự lo e nhó<br>
 ;> a mún gặp e trong những tháng cuối năm<br>
-;> tuần gặp nhau vài lần nếu tốt thì qua chỗ nhau chơi
+;> tuần gặp nhau vài lần nếu tốt thì qua chỗ nhau chơi<br>
+;> mấy bữa nay vs vài tuần nữa a off sớm nhe

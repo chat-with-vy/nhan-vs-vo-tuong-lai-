@@ -9,4 +9,5 @@
 ;> tự lập tự lo e nhó<br>
 ;> a mún gặp e trong những tháng cuối năm<br>
 ;> tuần gặp nhau vài lần nếu tốt thì qua chỗ nhau chơi<br>
-;> mấy bữa nay vs vài tuần nữa a off sớm nhe
+;> mấy bữa nay vs vài tuần nữa a off sớm nhe<br>
+;> off sớm tới nào thức khuya đc a nhắn sau

@@ -9,3 +9,4 @@
 ;> ngày lễ hay tết a dành cho e cũng đc<br>
 ;> lễ thì thường a đi chơi hoặc ở 1 mình làm gì đó thôi, chứ thường thì a ko có về quê<br>
 ;> dịp tết thì a mới về thôi<br>
+;> ngủ đi chồng off nhen

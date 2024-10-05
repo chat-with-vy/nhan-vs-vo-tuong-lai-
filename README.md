@@ -3,4 +3,5 @@
 ;> hi vợ iu<br>
 ;> mấy nay có coi sẽ ròi nhớ nhớ quên quên hem e<br>
 ;> mai a hem đi chơi ở nhà nhắn vs e hen<br>
-;> nói chuyện dú bím ròi hem ngại mà nói chuyện đá lưỡi sao nó ngại dễ sợ e
+;> nói chuyện dú bím ròi hem ngại mà nói chuyện đá lưỡi sao nó ngại dễ sợ e<br>
+;> mình có cơ hội gặp nhau thì 2 ngày nghĩ mình bên nhau cả ngày cũng đc

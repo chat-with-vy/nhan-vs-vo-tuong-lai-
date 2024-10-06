@@ -9,4 +9,5 @@
 ;> ròi z e tính gặp a hẹn kiểu gì<br>
 ;> ròi e tính gặp a kiểu gì<br>
 ;> nhắn xíu a ngủ<br>
-;> mấy nay e vẫn nungdf bth hả
+;> mấy nay e vẫn nungdf bth hả<br>
+;> coi sẽ nữa e thực hành hả

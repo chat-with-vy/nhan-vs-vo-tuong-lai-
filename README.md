@@ -4,4 +4,5 @@
 ;> girl răm hem gặp a nhiều tháng ròi chắc quên mặt a như nào ròi<br>
 =)) tưởng a xấu<br>
 ;> tự dưng giờ bùn ngủ quá e<br>
-;> a ăn cơm ròi a nhắn nhe
+;> a ăn cơm ròi a nhắn nhe<br>
+;> ròi chăn số, ko gọi đc gặp kiểu gì e

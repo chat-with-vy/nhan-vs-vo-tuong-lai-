@@ -5,4 +5,5 @@
 =)) tưởng a xấu<br>
 ;> tự dưng giờ bùn ngủ quá e<br>
 ;> a ăn cơm ròi a nhắn nhe<br>
-;> ròi chăn số, ko gọi đc gặp kiểu gì e
+;> ròi chăn số, ko gọi đc gặp kiểu gì e<br>
+;> ròi z e tính gặp a hẹn kiểu gì

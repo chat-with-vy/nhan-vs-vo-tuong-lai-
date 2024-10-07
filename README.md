@@ -13,4 +13,5 @@
 ;> bye e, ngủ ngon<br>
 ;> e chắc thích nghe "xưng chồng kêu vợ"<br>
 ;> tùy lúc có cơn a mới kêu z thôi<br>
-;> kiểu ngày hôm nay hơi vui thì nói chuyện ngọt ngào tý, đéo vui hoặc bththì xưng a e
+;> kiểu ngày hôm nay hơi vui thì nói chuyện ngọt ngào tý, đéo vui hoặc bththì xưng a e<br>
+;> hôm nào vui thì a cho đụ còn đéo vui thì đéo cho đụ kiểu z

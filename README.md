@@ -19,4 +19,7 @@
 ;> nhà mạng việt nam mình bảo mật kém lắm, biết số cái là hack đc à chứ ko nhất thiết phân biệt iphone,adroid gì đâu<br>
 ;> mà iphone thì bảo mật tốt hơn xíu hoy<br>
 ;> đâu nhất thiết e phải ấn link lạ hay là xài wifi ko pass<br>
-;> nói vui thôi chứ quay clip séc của mình lại chi e, ko nên
+;> nói vui thôi chứ quay clip séc của mình lại chi e, ko nên<br>
+;> lâu ròi a cũng ko gặp nyc<br>
+;> xưa a quen nyc a vì a thích con gái có tính cách như nó<br>
+;> chắc nyc a cũng chấp nhận chuyện ctay ròi nên lâu ròi a cũng ko thấy nyc<br>

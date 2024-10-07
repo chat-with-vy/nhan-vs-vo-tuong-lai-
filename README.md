@@ -18,4 +18,5 @@
 ;> nói chơi chứ mình quay cảnh trần truồng lại chi e, nhìu khi điện thoại bị hack cái tung clip lên mạng là lòi lon chiến sĩ<br>
 ;> nhà mạng việt nam mình bảo mật kém lắm, biết số cái là hack đc à chứ ko nhất thiết phân biệt iphone,adroid gì đâu<br>
 ;> mà iphone thì bảo mật tốt hơn xíu hoy<br>
-;> đâu nhất thiết e phải ấn link lạ hay là xài wifi ko pass
+;> đâu nhất thiết e phải ấn link lạ hay là xài wifi ko pass<br>
+;> nói vui thôi chứ quay clip séc của mình lại chi e, ko nên

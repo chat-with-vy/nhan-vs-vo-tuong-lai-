@@ -6,4 +6,5 @@
 ;> công việc e coi sẽ nhìu có ảnh hưởng gì hem<br>
 ;> nói chung thì coi sẽ ít ít thôi chứ coi nhìu quá chai sạn<br>
 ;> e coi chắc ướt quần lun =))<br>
-;> e mún ăn nằm vs a ròi chơi nhau đến già, khi nào liệt yếu chơi hết nổi thì thôi hả 
+;> e mún ăn nằm vs a ròi chơi nhau đến già, khi nào liệt yếu chơi hết nổi thì thôi hả<br> 
+;> tưởng bận nên hẹn e ít nhắn ý mà, mà ai dè rảnh

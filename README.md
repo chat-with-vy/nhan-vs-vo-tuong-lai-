@@ -10,4 +10,6 @@
 ;> tưởng bận nên hẹn e ít nhắn ý mà, mà ai dè rảnh<br>
 ;> e coi sẽ nungdfd riết ướt quần lun mừa<br>
 ;> a off ngủ nhe e<br>
-;> bye e, ngủ ngon
+;> bye e, ngủ ngon<br>
+;> e chắc thích nghe "xưng chồng kêu vợ"<br>
+

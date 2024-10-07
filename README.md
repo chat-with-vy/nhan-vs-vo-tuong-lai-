@@ -15,4 +15,4 @@
 ;> tùy lúc có cơn a mới kêu z thôi<br>
 ;> kiểu ngày hôm nay hơi vui thì nói chuyện ngọt ngào tý, đéo vui hoặc bththì xưng a e<br>
 ;> hôm nào vui thì a cho đụ còn đéo vui thì đéo cho đụ kiểu z<br>
-;> nói chơi chứ mình quay cảnh trần truồng lại cho e, nhìu khi điện thoại bị hack cái tung clip lên mạng là lòi lon chiến sĩ
+;> nói chơi chứ mình quay cảnh trần truồng lại chi e, nhìu khi điện thoại bị hack cái tung clip lên mạng là lòi lon chiến sĩ

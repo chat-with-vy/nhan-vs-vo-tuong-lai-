@@ -12,4 +12,5 @@
 ;> a off ngủ nhe e<br>
 ;> bye e, ngủ ngon<br>
 ;> e chắc thích nghe "xưng chồng kêu vợ"<br>
-
+;> tùy lúc có cơn a mới kêu z thôi<br>
+;> kiểu ngày hôm nay hơi vui thì nói chuyện ngọt ngào tý, đéo vui hoặc bththì xưng a e

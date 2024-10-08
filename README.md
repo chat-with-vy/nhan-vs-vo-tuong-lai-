@@ -12,4 +12,6 @@
 ;> tháng làm cỡ 30-40 triệu thì cỡ làm chủ kinh doanh quán ăn, quán nước gòi<br>
 ;> có nhân viên nào trong cty e mà e trả 30-40 củ hem<br>
 ;> chắc maximum 20 củ đổ lại<br>
-;> a nhìn a biết
+;> a nhìn a biết<br>
+;> thôi cứ nhắn như này đi e nào có duyên thì gặp<br>
+;> 

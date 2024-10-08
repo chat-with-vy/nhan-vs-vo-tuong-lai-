@@ -29,4 +29,5 @@ tiêu chuẩn:
 yêu cầu 1 người con gái tuổi từ 21-27 làm ny, nếu đẹp thì càng tốt =))<br>
 cao 1m6x đổ lại, chân dài, vừa người<br>
 tính cách: nữ tính, dịu dàng, biết chăm ny, ngoan hiền,...<br>
-=)) tiêu chuẩn a nhiu đó thôi
+=)) tiêu chuẩn a nhiu đó thôi<br>
+;> nhiu đó đủ apply làmny a ròi

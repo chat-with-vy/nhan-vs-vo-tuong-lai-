@@ -21,4 +21,5 @@
 ;> a đéo làm gì cả cứ ăn ngủ đi làm như bth thôi<br>
 ;> còn việc gặp a đó là chuyện của e<br> 
 ;> e tự tìm cách đi<br>
-;> a rảnh thì thỉnh thoảng sẽ nhắn vs e ko thì thôi
+;> a rảnh thì thỉnh thoảng sẽ nhắn vs e ko thì thôi<br>
+;> a hong có chờ, con khác tán a vẫn iu =))

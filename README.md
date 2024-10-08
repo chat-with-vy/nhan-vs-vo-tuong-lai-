@@ -10,4 +10,6 @@
 ;> à phải tài chính vững dể ko bị áp lực bởi đồng tiền<br>
 ;> a code nảy giờ nè e<br>
 ;> tháng làm cỡ 30-40 triệu thì cỡ làm chủ kinh doanh quán ăn, quán nước gòi<br>
-;> có nhân viên nào trong cty e mà e trả 30-40 củ hem
+;> có nhân viên nào trong cty e mà e trả 30-40 củ hem<br>
+;> chắc maximum 20 củ đổ lại<br>
+;> a nhìn a biết

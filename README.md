@@ -16,4 +16,6 @@
 ;> thôi cứ nhắn như này đi e nào có duyên thì gặp<br>
 ;> để mình tự gặp nhau ở ngoài đường đi<br>
 ;> maybe là vài năm hoặc vài tháng hoặc never gặp<br>
-;> thì e cứ đợi ngày đó đi
+;> thì e cứ đợi ngày đó đi<br>
+;> a sẽ nhường phần chủ động cho e<br>
+;> a đéo làm gì cả cứ ăn ngủ đi làm như bth thôi

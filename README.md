@@ -1,2 +1,3 @@
 ;> hê nhô e<br>
-;> quen ăn nằm vs nhau 10 năm chắc nhìn nhau trần truồng quen mắt lun quá e
+;> quen ăn nằm vs nhau 10 năm chắc nhìn nhau trần truồng quen mắt lun quá e<br>
+;> nếu mà có ở chung thì tối tối ôm nhau ngủ, tỉ tê vài câu chứ ko lẽ đụ quài

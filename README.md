@@ -30,4 +30,5 @@ yêu cầu 1 người con gái tuổi từ 21-27 làm ny, nếu đẹp thì càn
 cao 1m6x đổ lại, chân dài, vừa người<br>
 tính cách: nữ tính, dịu dàng, biết chăm ny, ngoan hiền,...<br>
 =)) tiêu chuẩn a nhiu đó thôi<br>
-;> nhiu đó đủ apply làmny a ròi
+;> nhiu đó đủ apply làm ny a ròi<br>
+;> rảnh mới nhắn à, đừng có đòi hỏi, mà chị có đòi hỏi tôi cũng đéo làm

@@ -14,4 +14,5 @@
 ;> chắc maximum 20 củ đổ lại<br>
 ;> a nhìn a biết<br>
 ;> thôi cứ nhắn như này đi e nào có duyên thì gặp<br>
-;> 
+;> để mình tự gặp nhau ở ngoài đường đi<br>
+;> maybe là vài năm hoặc vài tháng hoặc never gặp

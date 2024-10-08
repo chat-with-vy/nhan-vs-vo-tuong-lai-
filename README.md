@@ -20,4 +20,5 @@
 ;> a sẽ nhường phần chủ động cho e<br>
 ;> a đéo làm gì cả cứ ăn ngủ đi làm như bth thôi<br>
 ;> còn việc gặp a đó là chuyện của e<br> 
-;> e tự tìm cách đi
+;> e tự tìm cách đi<br>
+;> a rảnh thì thỉnh thoảng sẽ nhắn vs e ko thì thôi

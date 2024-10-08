@@ -15,4 +15,5 @@
 ;> a nhìn a biết<br>
 ;> thôi cứ nhắn như này đi e nào có duyên thì gặp<br>
 ;> để mình tự gặp nhau ở ngoài đường đi<br>
-;> maybe là vài năm hoặc vài tháng hoặc never gặp
+;> maybe là vài năm hoặc vài tháng hoặc never gặp<br>
+;> thì e cứ đợi ngày đó đi

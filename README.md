@@ -31,4 +31,5 @@ cao 1m6x đổ lại, chân dài, vừa người<br>
 tính cách: nữ tính, dịu dàng, biết chăm ny, ngoan hiền,...<br>
 =)) tiêu chuẩn a nhiu đó thôi<br>
 ;> nhiu đó đủ apply làm ny a ròi<br>
-;> rảnh mới nhắn à, đừng có đòi hỏi, mà chị có đòi hỏi tôi cũng đéo làm
+;> rảnh mới nhắn à, đừng có đòi hỏi, mà chị có đòi hỏi tôi cũng đéo làm<br>
+;> chị cảm thấy mqh này toxic quá thì chị có thể từ bỏ, tui là tui hong có sửa tính sửa nết đc đâu

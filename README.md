@@ -32,4 +32,5 @@ tính cách: nữ tính, dịu dàng, biết chăm ny, ngoan hiền,...<br>
 =)) tiêu chuẩn a nhiu đó thôi<br>
 ;> nhiu đó đủ apply làm ny a ròi<br>
 ;> rảnh mới nhắn à, đừng có đòi hỏi, mà chị có đòi hỏi tôi cũng đéo làm<br>
-;> chị cảm thấy mqh này toxic quá thì chị có thể từ bỏ, tui là tui hong có sửa tính sửa nết đc đâu
+;> chị cảm thấy mqh này toxic quá thì chị có thể từ bỏ, tui là tui hong có sửa tính sửa nết đc đâu<br>
+;> tui vs chị ko phải ny nhen, vs giờ tui cũng hết cảm giác vs chị ròi
